@@ -1,3 +1,0 @@
-== README
-
-This is just the first tutorial in Michael Hartl's RoR tutorial. Nothing special.
